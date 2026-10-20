@@ -111,14 +111,7 @@ const stackGroups = [
 			"Vue.js",
 		],
 	],
-	[
-		"State & UI",
-		[
-			"SCSS",
-			"Responsive Design",
-			"Figma",
-		],
-	],
+	["State & UI", ["SCSS", "Responsive Design", "Figma"]],
 	[
 		"Backend & data",
 		["Node.js", "NestJS", "REST APIs", "Laravel", "MySQL", "PostgreSQL"],
@@ -269,8 +262,8 @@ export default function Home() {
 							<div className="hero-now">
 								<span>Currently</span>
 								<p>
-									Full-Stack Developer at O-Technique
-									International Myanmar
+									Full-Stack Developer at <br />
+									O-Technique International Myanmar
 								</p>
 							</div>
 						</div>

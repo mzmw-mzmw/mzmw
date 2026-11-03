@@ -112,10 +112,7 @@ const stackGroups = [
 		],
 	],
 	["State & UI", ["SCSS", "Responsive Design", "Figma"]],
-	[
-		"Backend & data",
-		["Node.js", "NestJS", "REST APIs", "Laravel", "MySQL", "PostgreSQL"],
-	],
+	["Backend & data", ["Node.js", "NestJS", "Laravel", "MySQL"]],
 	[
 		"Workflow",
 		[
@@ -261,10 +258,8 @@ export default function Home() {
 							</div>
 							<div className="hero-now">
 								<span>Currently</span>
-								<p>
-									Full-Stack Developer at <br />
-									O-Technique International Myanmar
-								</p>
+								<p>Full-Stack Developer at</p>
+								<p>O-Technique International Myanmar</p>
 							</div>
 						</div>
 					</aside>

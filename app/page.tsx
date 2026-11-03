@@ -66,7 +66,7 @@ const projects = [
 		imageAlt:
 			"Matching M3 company search interface shown on desktop and mobile",
 		tone: "dark",
-		stack: ["Next.js", "NestJS", "TypeScript", "REST API"],
+		stack: ["Next.js", "NestJS", "TypeScript"],
 		highlights: [
 			"Developed search, list, and detail workflows",
 			"Built responsive interfaces for operational users",

@@ -5,7 +5,7 @@ const projects = [
 	{
 		number: "01",
 		name: "Hanbai Kanri (S1)",
-		timeframe: "2024 — 2025",
+		timeframe: "2024 — Present",
 		type: "Sales & construction project management",
 		description:
 			"A business management system used before construction site operations begin, supporting partner-company estimates, execution budgets, and financial planning for construction projects.",
@@ -41,7 +41,7 @@ const projects = [
 	{
 		number: "03",
 		name: "Admin Panel",
-		timeframe: "2025 — Present",
+		timeframe: "2021",
 		type: "Project administration & financial management",
 		description:
 			"An administrative platform for monitoring projects, financial activity, and system-level operations across the organization.",

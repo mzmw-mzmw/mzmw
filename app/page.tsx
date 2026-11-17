@@ -41,7 +41,7 @@ const projects = [
 	{
 		number: "03",
 		name: "Admin Panel",
-		timeframe: "2021",
+		timeframe: "2023",
 		type: "Project administration & financial management",
 		description:
 			"An administrative platform for monitoring projects, financial activity, and system-level operations across the organization.",
@@ -128,7 +128,7 @@ const stackGroups = [
 
 const roles = [
 	{
-		period: "Mar 2022 — Present",
+		period: "Mar 2023 — Present",
 		role: "Full-Stack Developer",
 		company: "O-Technique International Myanmar Co., Ltd",
 		url: "https://o-technique-myanmar.com/en",

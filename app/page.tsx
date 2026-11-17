@@ -128,7 +128,7 @@ const stackGroups = [
 
 const roles = [
 	{
-		period: "Mar 2023 — Present",
+		period: "Mar 2022 — Present",
 		role: "Full-Stack Developer",
 		company: "O-Technique International Myanmar Co., Ltd",
 		url: "https://o-technique-myanmar.com/en",
